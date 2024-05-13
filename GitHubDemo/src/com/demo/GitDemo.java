@@ -6,6 +6,10 @@ public class GitDemo {
 	{
 		System.out.println("m1 Method");
 	}
+	public void m2()
+	{
+		System.out.println("I am in m2 method");
+	}
 	public static void main(String[] args) {
 		System.out.println("Welcome To GitHub Demo");
 	}
