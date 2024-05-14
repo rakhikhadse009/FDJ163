@@ -14,6 +14,10 @@ public class GitDemo {
 	{
 		System.out.println("I am in m3 method");
 	}
+	public void m4()
+	{
+		System.out.println("New branch created");
+	}
 	
 	public static void main(String[] args) {
 		System.out.println("Welcome To GitHub Demo");
